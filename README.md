@@ -24,14 +24,14 @@ A full-stack web application for managing products.
 
 **Home Page**
 
-![Home Page Light](screenshots/homepagelight.png)
-![Home Page Dark](screenshots/homepagedark.png)
-![Home Page Mobile](screenshots/homepagemobile.png)
-![Home Page Empty](screenshots/homepageempty.png)
+![Home Page Light](screenshots/HomePageLight.png)
+![Home Page Dark](screenshots/HomePageDark.png)
+![Home Page Mobile](screenshots/HomePageMobile.png)
+![Home Page Empty](screenshots/HomePageEmpty.png)
 
 **Create Product**
 
-![Create Product](screenshots/createpage.png)
+![Create Product](screenshots/CreatePage.png)
 
 **Update Product**
 
@@ -39,9 +39,9 @@ A full-stack web application for managing products.
 
 **Database**
 
-![Database](screenshots/database.png)
+![Database](screenshots/Database.png)
 
 **Deploy**
-![Deploy](screenshots/deploy.png)
+![Deploy](screenshots/Deploy.png)
 
 ---
