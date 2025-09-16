@@ -1,6 +1,6 @@
 # Product Store 🛒
 
-A full-stack web application for managing products.
+A Full Stack web application for managing products.
 
 ## 🧑‍💻 Tech Stack
 
