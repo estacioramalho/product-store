@@ -29,13 +29,13 @@ A Full Stack web application for managing products.
 ![Home Page Mobile](screenshots/HomePageMobile.png)
 ![Home Page Empty](screenshots/HomePageEmpty.png)
 
-**Create Product**
-
-![Create Product](screenshots/CreatePage.png)
-
 **Update Product**
 
 ![Update Product](screenshots/UpdateProduct.png)
+
+**Create Product**
+
+![Create Product](screenshots/CreatePage.png)
 
 **Database**
 
