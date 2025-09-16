@@ -88,18 +88,10 @@ const HomePage = () => {
               <Text fontSize="xl" fontWeight="bold" color="gray.500" mb={4}>
                 No products found 😢
               </Text>
-              <Button
-                as={Link}
-                to="/create"
-                colorScheme="blue"
-                leftIcon={<PlusSquareIcon />}
-                variant="solid"
-              >
-                Create a product
-              </Button>
             </Flex>
           ) : (
             <SimpleGrid
+              minChildWidth="300px"
               columns={{ base: 1, sm: 2, md: 3, xl: 4 }}
               spacing={8}
               w="full"

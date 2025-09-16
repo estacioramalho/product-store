@@ -20,6 +20,7 @@ import {
   useToast,
   VStack,
   Badge,
+  AspectRatio,
 } from "@chakra-ui/react";
 import { useProductStore } from "../store/product";
 import { useState } from "react";
@@ -100,9 +101,9 @@ const ProductCard = ({ product }) => {
       <Image
         src={product.image}
         alt={product.name}
-        h={56}
         w="full"
-        objectFit="cover"
+        h="450px"
+        objectFit="contain"
         bg="gray.100"
       />
 
