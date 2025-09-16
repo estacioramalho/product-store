@@ -42,6 +42,7 @@ A full-stack web application for managing products.
 ![Database](screenshots/Database.png)
 
 **Deploy**
+
 ![Deploy](screenshots/Deploy.png)
 
 ---
