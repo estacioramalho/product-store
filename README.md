@@ -4,6 +4,7 @@ A Full Stack web application for managing products.
 
 ## 🧑‍💻 Tech Stack
 
+- **Language:** JavaScript
 - **Frontend:** React, Chakra UI, Zustand, Vite
 - **Backend:** Express, MongoDB, Mongoose, dotenv
 - **Dev Tools:** Nodemon
